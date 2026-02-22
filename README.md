@@ -43,8 +43,11 @@ Usage:
 ./linux_Ip_changer.sh
 ```
 Enter the IP address to use (default 127.0.0.1):
+
 Enter the port to use (default 9050):
+
 Enter the IP address change time (default 120):
+
 
 to stop the tool:
 ```
